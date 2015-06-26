@@ -3,6 +3,9 @@ public class main{
 
 public void t(){
 }
-sssssss
+
+public void ff(){
+
+}
 
 }
